@@ -1,4 +1,4 @@
-package Projects.cafemarket;
+package projects.cafemarket;
 
 import java.util.ArrayList;
 import java.util.List;

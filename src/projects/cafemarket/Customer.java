@@ -1,4 +1,4 @@
-package Projects.cafemarket;
+package projects.cafemarket;
 
 public class Customer {
     private int id;
